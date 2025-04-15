@@ -85,5 +85,3 @@ During testing, the system demonstrated:
 - **Accurate polling and statistical tracking**
 - **Robust auto-recovery** from interface downtime
 - **Clean shutdown with no resource leaks**
-
-These results confirm the system’s readiness for real-world use or academic extension.
