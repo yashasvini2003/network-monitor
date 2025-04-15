@@ -36,7 +36,7 @@ The system features inter-process communication via Unix domain sockets and supp
 - Each child monitor polls data **once per second**
 - Live terminal output provides real-time insights into interface behavior
 
-## 🛠 Makefile Automation
+## Makefile Automation
 
 A custom `Makefile` simplifies the development and execution process:
 
